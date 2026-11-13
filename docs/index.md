@@ -23,6 +23,7 @@
 ## Images
 
 ![portrate](https://nakanonobuko.com/wp-content/uploads/N.jpg)
+[from](https://nakanonobuko.com/wp-content/uploads/N.jpg)
 
 ## 中野信子氏「生きてるだけで丸儲け」は生物学的にも正しい 
 脳科学を通して伝えたいことはシンプルで __「生きている者が勝ち！」__ ということです。 
