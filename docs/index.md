@@ -21,7 +21,7 @@
 **人生は、生きてるだけで丸儲け、争わない、楽しみ、チャレンジするそれで、人の役に立てれば最高!**
 
 ## Images
-![gemini_image](docs/Gemini_Generated_Image_xua0fjxua0fjxua0.jpg)
+![gemini_image](/docs/Gemini_Generated_Image_xua0fjxua0fjxua0.jpg)
 
 ## 中野信子氏「生きてるだけで丸儲け」は生物学的にも正しい 
 脳科学を通して伝えたいことはシンプルで __「生きている者が勝ち！」__ ということです。 
