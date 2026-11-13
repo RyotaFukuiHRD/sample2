@@ -34,5 +34,10 @@
 本当は生き延びて生殖するために脳ができたんですけど、でもその脳が発達しすぎてしまったがために「ひと花咲かせよう！」ができちゃうわけです。
 
 ---
+## Youtube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fFR54RUnb_g?si=KcT3NTRfPnzgFjF-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 216. 文献A
 1. 文献B
